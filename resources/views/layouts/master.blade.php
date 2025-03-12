@@ -4,7 +4,7 @@
     <!-- Log on to codeastro.com for more projects! -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>I M S</title>
+    <title>AKTI | IMS</title>
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <meta name="csrf-token" content="{{ csrf_token() }}">
@@ -42,7 +42,7 @@
             <!-- mini logo for sidebar mini 50x50 pixels -->
             <span class="logo-mini"><b>I</b>MS</span>
             <!-- logo for regular state and mobile devices -->
-            <span class="logo-lg"><b>Inventory</b> System</span>
+            <span class="logo-lg"><b>AKTI</b> Inventory</span>
         </a>
 
         <!-- Header Navbar -->
@@ -119,7 +119,7 @@
     <footer class="main-footer">
         <!-- To the right -->
         <div class="pull-right hidden-xs">
-            Developed by Revan Apriyandi
+            Developed by IT BAAK
         </div>
         <!-- Default to the left -->
         <?php $date = date('Y')?>
